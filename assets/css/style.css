@@ -1,0 +1,15 @@
+h1 {
+	display: inline-block;
+}
+.row-header .col-12 {
+	align-items: center;
+	display: flex;
+	column-gap: 25px;
+}
+.row-header {
+	margin: 50px 0;
+}
+
+.has_error {
+	background-color: #ffc9c9;
+}
